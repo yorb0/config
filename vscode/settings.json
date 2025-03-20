@@ -1,0 +1,42 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.statusBar.visible": false,
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.activityBar.location": "hidden",
+    "editor.minimap.enabled": false,
+    "workbench.editor.showTabs": "none",
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "none",
+    "editor.stickyScroll.enabled": false,
+    "breadcrumbs.enabled": false,
+    "editor.glyphMargin": false,
+    "window.menuBarVisibility": "toggle",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.fontFamily": "'jetbrainsmono nerd font', monospace",
+    "editor.fontLigatures": true,
+    "editor.cursorStyle": "block",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.tabWidth": 4,
+    "files.autoSave": "onFocusChange",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "window.zoomLevel": 1,
+    "workbench.iconTheme": "material-icon-theme",
+    "explorer.confirmDragAndDrop": false,
+    "[php]": {
+        "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    "workbench.editor.editorActionsLocation": "hidden",
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "window.titleBarStyle": "native",
+    "editor.guides.indentation": false
+}
