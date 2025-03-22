@@ -2,7 +2,7 @@
     "workbench.startupEditor": "none",
     "workbench.statusBar.visible": false,
     "workbench.sideBar.location": "right",
-    "workbench.colorTheme": "Catppuccin Mocha",
+    "workbench.colorTheme": "Tokyo Night",
     "workbench.activityBar.location": "hidden",
     "editor.minimap.enabled": false,
     "workbench.editor.showTabs": "none",
@@ -27,7 +27,6 @@
         "asvetliakov.vscode-neovim": 1
     },
     "window.zoomLevel": 1,
-    "workbench.iconTheme": "material-icon-theme",
     "explorer.confirmDragAndDrop": false,
     "[php]": {
         "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
@@ -38,5 +37,7 @@
     "workbench.navigationControl.enabled": false,
     "window.commandCenter": false,
     "window.titleBarStyle": "native",
-    "editor.guides.indentation": false
+    "editor.guides.indentation": false,
+    "symbols.hidesExplorerArrows": false,
+    "workbench.iconTheme": null
 }
