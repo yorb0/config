@@ -11,7 +11,6 @@
     "editor.stickyScroll.enabled": false,
     "breadcrumbs.enabled": false,
     "editor.glyphMargin": false,
-    "window.menuBarVisibility": "toggle",
     "editor.scrollbar.horizontal": "hidden",
     "editor.scrollbar.horizontalScrollbarSize": 0,
     "editor.scrollbar.vertical": "hidden",
@@ -39,5 +38,7 @@
     "window.titleBarStyle": "native",
     "editor.guides.indentation": false,
     "symbols.hidesExplorerArrows": false,
-    "workbench.iconTheme": null
+    "workbench.iconTheme": null,
+    "window.menuBarVisibility": "toggle",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
 }
