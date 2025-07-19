@@ -221,9 +221,8 @@ for_window [all] border pixel 1
 
 bindsym $mod+space exec --no-startup-id toggle-waybar
 bindsym $mod+c exec --no-startup-id code
-bindsym $mod+w exec --no-startup-id firefox 
+bindsym $mod+w exec --no-startup-id brave 
 bindsym $mod+b exec --no-startup-id alacritty -e bluetui
 bindsym $mod+e exec --no-startup-id alacritty -e nnn -C
 bindsym $mod+p exec --no-startup-id alacritty -e pulsemixer
-
-
+bindsym $mod+m exec --no-startup-id brave web.whatsapp.com
