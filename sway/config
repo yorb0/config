@@ -211,9 +211,9 @@ exec_always --no-startup-id autotiling
 exec_always --no-startup-id ibus-daemon -d
 exec_always --no-startup-id export XDG_SESSION_TYPE=wayland
 exec_always --no-startupd-id export XDG_CURRENT_DESKTOP=sway
-exec_always --no-startup-id /usr/lib/xdg-desktop-portal
 exec_always --no-startup-id /usr/lib/xdg-desktop-portal -r
 exec_always --no-startup-id /usr/lib/xdg-desktop-portal-wlr -r 
+exec_always --no-startup-id /usr/lib/xdg-desktop-portal-gtk -r 
 #exec --no-startup-id waybar
 
 for_window [all] floating disable
