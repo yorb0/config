@@ -1,0 +1,38 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.layoutControl.enabled": false,
+    "workbench.navigationControl.enabled": false,
+    "window.commandCenter": false,
+    "window.menuBarVisibility": "toggle",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "hidden",
+    "workbench.statusBar.visible": false,
+    "window.titleBarStyle": "native",
+    "workbench.editor.showTabs": "none",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "'jetbrains mono','Droid Sans Mono', 'monospace', monospace",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.horizontalScrollbarSize": 0,
+    "editor.scrollbar.vertical": "hidden",
+    "editor.scrollbar.verticalScrollbarSize": 0,
+    "editor.glyphMargin": false,
+    "editor.minimap.enabled": false,
+    "window.customTitleBarVisibility": "never",
+    "breadcrumbs.enabled": false,
+    "editor.fontLigatures": true,
+    "editor.renderWhitespace": "none",
+    "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+    "workbench.iconTheme": null,
+    "catppuccin.colorOverrides": {
+        "mocha": {
+            "base": "#000",
+            "mantle": "#000",
+            "crust": "#000",
+        }
+    },
+    "editor.stickyScroll.enabled": false,
+    "window.zoomLevel": 2,
+    "editor.detectIndentation": false
+}
