@@ -34,5 +34,8 @@
     },
     "editor.stickyScroll.enabled": false,
     "window.zoomLevel": 2,
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "explorer.autoReveal": false,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block"
 }
